@@ -6,9 +6,13 @@
 *.tfstate
 *.tfstate.*
 
+# Crendential File
+creds.tf
+
 # .tfvars files
 *.tfvars
 
 .vscode
 
 *.pem
+
