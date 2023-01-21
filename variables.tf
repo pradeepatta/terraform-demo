@@ -1,6 +1,6 @@
 variable "namespace" {
   description = "The project names for unique resource naming"
-  default     = "Arbutus"
+  default     = "Arbutus-Demo"
   type        = string
 }
 
