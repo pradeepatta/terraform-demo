@@ -6,8 +6,8 @@ terraform {
     }
   }
 
-## Terrafrom Cloud Integration ##
-cloud {
+  ## Terrafrom Cloud Integration ##
+  cloud {
     organization = "test-pradeep"
     workspaces {
       name = "prod"
