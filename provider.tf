@@ -8,9 +8,10 @@ terraform {
 
   ## Terrafrom Cloud Integration ##
   cloud {
-    organization = "test-pradeep"
+    organization = "Arbutus"
+
     workspaces {
-      name = "prod"
+      name = "Terraform-Demo"
     }
   }
 
